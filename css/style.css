@@ -6,6 +6,7 @@
 
 body{
     font-family: Arial, Helvetica, sans-serif;
+    background-color: gainsboro;
 }
 /*Home page Styling*/
 
@@ -40,7 +41,7 @@ nav ul li a{
 /*Container styling*/
 
 .container{
-    
+    background-color: white;
 }
 .img{
     background: url('https://images.unsplash.com/photo-1544761634-dc512f2238a3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGFjY291bnRzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60');
@@ -52,12 +53,12 @@ nav ul li a{
 
 /*about styling*/
 .about{
-    background-color: white;
+    
     padding: 2%;
     
 }
 .content{
-    padding: 2%;
+    padding: 0 2%;
     border-bottom: 2px solid blue;
 }
 .h{
@@ -98,4 +99,24 @@ nav ul li a{
 }
 .col-md-8{
     padding: 5%;
+}
+.vis .row{
+    border: none;
+}
+/*what we believe in section styling*/
+.believe{
+    background-color: blue;
+    color: white;
+    padding: 5px 2%;
+    font-weight: 500;
+    text-align: center;
+}
+.core{
+    padding: 0 2%;
+}
+.values{
+    padding: 0 2%;
+}
+.value{
+    padding: 0 2%;
 }
