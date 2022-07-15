@@ -70,6 +70,22 @@ nav ul li a{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1.2rem;
 }
+/*styling social media handles*/
+.social{
+
+}
+.fa-facebook{
+   
+}
+.fa-twitter{
+
+}
+.fa-linkedin{
+
+}
+.fa-youtube{
+    
+}
 /*services styling*/
 .services{
     padding: 0 2%;
@@ -146,4 +162,31 @@ nav ul li a{
 }
 .value{
     padding: 0 2%;
+}
+
+/*Founder and so-founder styling*/
+.founder{
+    padding: 5%;
+}
+.co-founder{
+    padding: 5%;
+}
+
+
+.founderr h4{
+    padding: 0 5%;
+    font-weight: 500;
+}
+.society h4{
+    background-color: blue;
+    color: white;
+    padding: 2%;
+    width: 100%;
+}
+
+.society .col-md{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+    background-color: white;
+
 }
