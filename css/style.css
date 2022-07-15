@@ -73,6 +73,7 @@ nav ul li a{
 /*services styling*/
 .services{
     padding: 0 2%;
+    
 }
 .service{
     padding: 0 2%;
@@ -81,16 +82,19 @@ nav ul li a{
     background-color: blue;
     padding: 2%;
     color: white;
+    border-radius: 10px;
 }
 .serv2{
     background-color: cadetblue;
     padding: 2%;
     color: white;
+    border-radius: 10px;
 }
 .serv3{
     background-color: blueviolet; 
     padding: 2%;
     color: white;
+    border-radius: 10px;
 }
 /*our people, clients and society styling*/
 .our-people{
