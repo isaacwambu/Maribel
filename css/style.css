@@ -86,31 +86,22 @@ nav ul li a{
 .fa-youtube{
     
 }
-/*services styling*/
-.services{
-    padding: 0 2%;
+/*What we do styling*/
+.what{
+    padding: 2%;
+}
+.we{
+    padding: 0 5%;
     
 }
-.service{
+.we h3{
+    padding: 2%;
+}
+.do{
+    border-left: 3px solid blue;
+    font-size: 1.5rem;
     padding: 0 2%;
-}
-.serv1{
-    background-color: blue;
-    padding: 2%;
-    color: white;
-    border-radius: 10px;
-}
-.serv2{
-    background-color: cadetblue;
-    padding: 2%;
-    color: white;
-    border-radius: 10px;
-}
-.serv3{
-    background-color: blueviolet; 
-    padding: 2%;
-    color: white;
-    border-radius: 10px;
+    
 }
 /*our people, clients and society styling*/
 .our-people{
